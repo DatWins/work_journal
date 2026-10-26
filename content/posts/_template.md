@@ -68,3 +68,29 @@ Use `##` for main sections, `###` for sub-sections.
 ```
 some command or code here
 ```
+
+---
+
+## Callout boxes
+
+Use these to highlight important notes, warnings, or steps.
+
+{{< callout type="info" title="Good to know" >}}
+This is an informational note.
+{{< /callout >}}
+
+{{< callout type="warning" title="Caution" >}}
+This is a warning — pay attention.
+{{< /callout >}}
+
+{{< callout type="success" title="Done" >}}
+This step is complete.
+{{< /callout >}}
+
+{{< callout type="error" title="Error" >}}
+Something went wrong or is not allowed.
+{{< /callout >}}
+
+## External link with icon
+
+{{< extlink href="https://sdcl.org" icon="fas fa-external-link-alt" text="San Diego County Library" >}}
