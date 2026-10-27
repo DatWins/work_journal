@@ -9,3 +9,5 @@ tags:
 
 ---
 Patrons who are customers of ATT will no longer be able to receive text messages from the County. Sign them up only for Email.
+
+<!--more-->

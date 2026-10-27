@@ -7,3 +7,5 @@ tags:
 
 ---
 Only $1 and coins for copier. No longer $5 bill.
+
+<!--more-->

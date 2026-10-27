@@ -8,6 +8,8 @@ tags:
 ---
 #  I am a back-up for this task, but I still need these notes as a reference. See my previous short-cut notes on the instructions. 
 
+<!--more-->
+
 # Magazine duty
 - [ ] Collect magazines (black mesh basket on my workstation). They  will be checked in manually and changed to non-circulating under the Details tab.
 - [ ] Exchange old ones with new issues. New magazines have a plastic protective sleeve to be displayed.

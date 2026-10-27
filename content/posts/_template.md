@@ -23,6 +23,8 @@ SUGGESTED CATEGORIES:  work  planning  review
 
 What happened / what this is about.
 
+<!--more-->
+
 ## Context
 
 Background — why this matters, what led to this.

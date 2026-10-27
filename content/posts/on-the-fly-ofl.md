@@ -10,6 +10,8 @@ tags:
 ---
 
 This call number OFL JF REDDY 
+
+<!--more-->
 Barcode 010625078826853
 
 This is a On the Fly book. This item should be sent up to HQ. Don't check out to customer. 

@@ -11,3 +11,5 @@ tags:
 ---
 
 # This is annual training that needs to be completed by the 30th of June ANNUALLY. 
+
+<!--more-->

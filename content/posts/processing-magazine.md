@@ -9,6 +9,8 @@ tags:
 
 # Handling New Magazine
 
+<!--more-->
+
 ## On Leap
 1. Check in magazine.
 2. Click on Detail

@@ -8,6 +8,8 @@ tags:
    
 ---
 # Follow these steps:
+
+<!--more-->
 1. File an SIR
 2. After SIR is in the system, download and print out the report.
 3. The person who prepares the report need to sign the last page

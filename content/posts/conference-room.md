@@ -8,6 +8,8 @@ tags:
 ---
 # Important: You must have a library card
 
+<!--more-->
+
 # Important: The organization must be non-profit.
 
 - To Reserve a conference room
